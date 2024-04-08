@@ -1,2 +1,2 @@
 # FYP
-This Repository is for deployment of my final project
+This Repository is for my final project
